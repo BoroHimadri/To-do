@@ -1,0 +1,16 @@
+.item{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+  
+}
+
+#ic{
+    float: right;
+    color: red;
+}
+
+#li{
+    text-align:center;
+}
